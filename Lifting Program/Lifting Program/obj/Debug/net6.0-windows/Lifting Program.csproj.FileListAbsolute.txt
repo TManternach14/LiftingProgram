@@ -1,0 +1,23 @@
+C:\Users\t.manternach\source\repos\Lifting Program\Lifting Program\bin\Debug\net6.0-windows\Lifting Program.exe
+C:\Users\t.manternach\source\repos\Lifting Program\Lifting Program\bin\Debug\net6.0-windows\Lifting Program.deps.json
+C:\Users\t.manternach\source\repos\Lifting Program\Lifting Program\bin\Debug\net6.0-windows\Lifting Program.runtimeconfig.json
+C:\Users\t.manternach\source\repos\Lifting Program\Lifting Program\bin\Debug\net6.0-windows\Lifting Program.dll
+C:\Users\t.manternach\source\repos\Lifting Program\Lifting Program\bin\Debug\net6.0-windows\ref\Lifting Program.dll
+C:\Users\t.manternach\source\repos\Lifting Program\Lifting Program\bin\Debug\net6.0-windows\Lifting Program.pdb
+C:\Users\t.manternach\source\repos\Lifting Program\Lifting Program\obj\Debug\net6.0-windows\Lifting Program.csproj.AssemblyReference.cache
+C:\Users\t.manternach\source\repos\Lifting Program\Lifting Program\obj\Debug\net6.0-windows\Lifting_Program.Form1.resources
+C:\Users\t.manternach\source\repos\Lifting Program\Lifting Program\obj\Debug\net6.0-windows\Lifting Program.csproj.GenerateResource.cache
+C:\Users\t.manternach\source\repos\Lifting Program\Lifting Program\obj\Debug\net6.0-windows\Lifting Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\t.manternach\source\repos\Lifting Program\Lifting Program\obj\Debug\net6.0-windows\Lifting Program.AssemblyInfoInputs.cache
+C:\Users\t.manternach\source\repos\Lifting Program\Lifting Program\obj\Debug\net6.0-windows\Lifting Program.AssemblyInfo.cs
+C:\Users\t.manternach\source\repos\Lifting Program\Lifting Program\obj\Debug\net6.0-windows\Lifting Program.csproj.CoreCompileInputs.cache
+C:\Users\t.manternach\source\repos\Lifting Program\Lifting Program\obj\Debug\net6.0-windows\Lifting Program.dll
+C:\Users\t.manternach\source\repos\Lifting Program\Lifting Program\obj\Debug\net6.0-windows\ref\Lifting Program.dll
+C:\Users\t.manternach\source\repos\Lifting Program\Lifting Program\obj\Debug\net6.0-windows\Lifting Program.pdb
+C:\Users\t.manternach\source\repos\Lifting Program\Lifting Program\obj\Debug\net6.0-windows\Lifting Program.genruntimeconfig.cache
+C:\Users\t.manternach\source\repos\Lifting Program\Lifting Program\obj\Debug\net6.0-windows\Lifting_Program.Push.resources
+C:\Users\t.manternach\source\repos\Lifting Program\Lifting Program\obj\Debug\net6.0-windows\Lifting_Program.Form2.resources
+C:\Users\t.manternach\source\repos\Lifting Program\Lifting Program\obj\Debug\net6.0-windows\Lifting_Program.Form3.resources
+C:\Users\t.manternach\source\repos\Lifting Program\Lifting Program\obj\Debug\net6.0-windows\Lifting_Program.Form4.resources
+C:\Users\t.manternach\source\repos\Lifting Program\Lifting Program\obj\Debug\net6.0-windows\Lifting_Program.Form5.resources
+C:\Users\t.manternach\source\repos\Lifting Program\Lifting Program\obj\Debug\net6.0-windows\Lifting_Program.Form6.resources
